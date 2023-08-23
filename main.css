@@ -38,6 +38,9 @@ nav button i {
     transform: rotate(180deg);
 }
 .section {
+    position: absolute;
+    width: 100%;
+    top: 60px;
     min-height: calc(100vh - 60px);
 }
 .section .container {
